@@ -1,0 +1,4 @@
+Solarized
+=========
+
+Solarized Theme
