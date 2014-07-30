@@ -2,8 +2,8 @@
     "title": "Solarized",
     "name": "solarized",
     "description": "Solarized Theme for Brackets",
-    "version": "0.0.2",
-    "author": "Your Name <manchagnu@gmail.com>",
+    "version": "1.0.0",
+    "author": "Miguel Castillo <manchagnu@gmail.com>",
     "homepage": "https://github.com/Brackets-Themes/Solarized",
     "repository": {
         "type": "git",
